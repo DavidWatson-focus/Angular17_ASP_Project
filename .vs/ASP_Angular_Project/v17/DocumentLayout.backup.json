@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\ASP_NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7C37B4-15F6-4D5B-B1E5-A6DCDFA200BD}|ASP_Angular_Project.Server\\ASP_Angular_Project.Server.csproj|c:\\users\\administrator\\documents\\asp_net\\asp_angular_project.server\\asp_angular_project.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8C7C37B4-15F6-4D5B-B1E5-A6DCDFA200BD}|ASP_Angular_Project.Server\\ASP_Angular_Project.Server.csproj|solutionrelative:asp_angular_project.server\\asp_angular_project.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ASP_Angular_Project.Server",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\ASP_NET\\ASP_Angular_Project.Server\\ASP_Angular_Project.Server.csproj",
+              "RelativeDocumentMoniker": "ASP_Angular_Project.Server\\ASP_Angular_Project.Server.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\ASP_NET\\ASP_Angular_Project.Server\\ASP_Angular_Project.Server.csproj",
+              "RelativeToolTip": "ASP_Angular_Project.Server\\ASP_Angular_Project.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T20:19:18.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
